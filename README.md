@@ -66,7 +66,7 @@ Please run the following command to install python packages for this project.<br
 </pre>
 
 <br>
-<h3>2.3 Download TFRecord dataset</h3>
+<h3>2.3 Create TFRecord dataset</h3>
  You can create TRecord_IT_RoadSigns 120classe dataset by using the following project 
 <a href="https://github.com/sarah-antillia/Realistic-AutoAnnotation-Tool/tree/main/projects/IT_RoadSigns_120classes">Realistic-AutoAnnotation-Tool</a>
 <br>
