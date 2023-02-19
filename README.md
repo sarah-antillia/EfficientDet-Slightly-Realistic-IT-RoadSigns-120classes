@@ -43,7 +43,7 @@ You have to modify extra_compiler_args in setup.py in the following way:
 <h3>2.1 Clone repository</h3>
 Please clone EfficientDet-Slightly-Realistic-IT-RoadSigns-120classes.git in the working folder <b>c:\google</b>.<br>
 <pre>
->git clone https://github.com/atlan-antillia/EfficientDet-Slightly-Realistic-IT-RoadSigns-120classes.git<br>
+>git clone https://github.com/sarah-antillia/EfficientDet-Slightly-Realistic-IT-RoadSigns-120classes.git<br>
 </pre>
 You can see the following folder <b>projects</b> in  EfficientDet-Slightly-Realistic-IT-RoadSigns-120classes of the working folder.<br>
 
