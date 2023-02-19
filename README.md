@@ -503,36 +503,35 @@ python ../../SavedModelInferencer.py ^
 <h3>
 7.2. Some Inference results of IT RoadSigns
 </h3>
-
-<img src="./blob/main/projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1001.jpg" width="1280" height="auto"><br>
-<a href="./blob/main/projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1001.jpg_objects.csv">roadsigns1001.jpg_objects.csv</a><br>
+<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1001.jpg" width="1280" height="auto"><br>
+<a href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1001.jpg_objects.csv">roadsigns1001.jpg_objects.csv</a><br>
 <br>
-<img src="./blob/main/projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1012.jpg" width="1280" height="auto"><br>
-<a  href="./blob/main/projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1012.jpg_objects.csv">roadsigns1002.jpg_objects.csv</a><br>
+<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1012.jpg" width="1280" height="auto"><br>
+<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1012.jpg_objects.csv">roadsigns1002.jpg_objects.csv</a><br>
 <br>
-<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1023.jpg" width="1280" height="auto"><br>
-<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1023.jpg_objects.csv">roadsigns1003.jpg_objects.csv</a><br>
+<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1023.jpg" width="1280" height="auto"><br>
+<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1023.jpg_objects.csv">roadsigns1003.jpg_objects.csv</a><br>
 <br>
-<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1034.jpg" width="1280" height="auto"><br>
-<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1034.jpg_objects.csv">roadsigns1004.jpg_objects.csv</a><br>
+<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1034.jpg" width="1280" height="auto"><br>
+<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1034.jpg_objects.csv">roadsigns1004.jpg_objects.csv</a><br>
 <br>
-<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1045.jpg" width="1280" height="auto"><br>
-<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1045.jpg_objects.csv">roadsigns1005.jpg_objects.csv</a><br>
+<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1045.jpg" width="1280" height="auto"><br>
+<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1045.jpg_objects.csv">roadsigns1005.jpg_objects.csv</a><br>
 <br>
-<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1056.jpg" width="1280" height="auto"><br>
-<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1056.jpg_objects.csv">roadsigns1006.jpg_objects.csv</a><br>
+<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1056.jpg" width="1280" height="auto"><br>
+<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1056.jpg_objects.csv">roadsigns1006.jpg_objects.csv</a><br>
 <br>
-<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1067.jpg" width="1280" height="auto"><br>
-<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1067.jpg_objects.csv">roadsigns1007.jpg_objects.csv</a><br>
+<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1067.jpg" width="1280" height="auto"><br>
+<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1067.jpg_objects.csv">roadsigns1007.jpg_objects.csv</a><br>
 <br>
-<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1078.jpg" width="1280" height="auto"><br>
-<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1078.jpg_objects.csv">roadsigns1008.jpg_objects.csv</a><br>
+<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1078.jpg" width="1280" height="auto"><br>
+<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1078.jpg_objects.csv">roadsigns1008.jpg_objects.csv</a><br>
 <br>
-<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1089.jpg" width="1280" height="auto"><br>
-<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1089.jpg_objects.csv">roadsigns1009.jpg_objects.csv</a><br>
+<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1089.jpg" width="1280" height="auto"><br>
+<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1089.jpg_objects.csv">roadsigns1009.jpg_objects.csv</a><br>
 <br>
-<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1099.jpg" width="1280" height="auto"><br>
-<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1099.jpg_objects.csv">roadsigns1010.jpg_objects.csv</a><br>
+<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1099.jpg" width="1280" height="auto"><br>
+<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/it_roadsigns_1099.jpg_objects.csv">roadsigns1010.jpg_objects.csv</a><br>
 <br>
 
 <h3>7.3. COCO metrics of inference result</h3>
