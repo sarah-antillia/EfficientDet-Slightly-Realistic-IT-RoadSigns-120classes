@@ -504,11 +504,11 @@ python ../../SavedModelInferencer.py ^
 7.2. Some Inference results of IT RoadSigns
 </h3>
 
-<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1001.jpg" width="1280" height="auto"><br>
-<a href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1001.jpg_objects.csv">roadsigns1001.jpg_objects.csv</a><br>
+<img src="./blob/main/projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1001.jpg" width="1280" height="auto"><br>
+<a href="./blob/main/projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1001.jpg_objects.csv">roadsigns1001.jpg_objects.csv</a><br>
 <br>
-<img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1012.jpg" width="1280" height="auto"><br>
-<a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1012.jpg_objects.csv">roadsigns1002.jpg_objects.csv</a><br>
+<img src="./blob/main/projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1012.jpg" width="1280" height="auto"><br>
+<a  href="./blob/main/projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1012.jpg_objects.csv">roadsigns1002.jpg_objects.csv</a><br>
 <br>
 <img src="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1023.jpg" width="1280" height="auto"><br>
 <a  href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/IT_roadsigns_1023.jpg_objects.csv">roadsigns1003.jpg_objects.csv</a><br>
