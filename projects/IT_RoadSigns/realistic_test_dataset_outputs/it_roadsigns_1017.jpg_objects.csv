@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1017.jpg,Junction_with_a_minor_side_road_from_right,0.98,990,447,1205,642
+it_roadsigns_1017.jpg,Right_or_left_turn_only_ahead,0.7,500,231,718,446
+it_roadsigns_1017.jpg,Quayside_or_river_bank,0.62,9,8,155,140
+it_roadsigns_1017.jpg,Crossroads,0.44,256,118,329,183

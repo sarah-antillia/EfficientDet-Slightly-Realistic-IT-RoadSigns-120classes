@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1087.jpg,Bend_to_right,0.98,252,116,474,312
+it_roadsigns_1087.jpg,Falling_rocks_from_left,0.88,743,339,888,467
+it_roadsigns_1087.jpg,Axle_weight_limit_in_tonnes,0.85,501,229,645,375

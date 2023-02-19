@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1086.jpg,Minimum_distance,0.95,743,337,966,558
+it_roadsigns_1086.jpg,Falling_rocks_from_right,0.93,991,449,1209,640
+it_roadsigns_1086.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.86,255,119,399,263
+it_roadsigns_1086.jpg,Customs,0.66,9,9,81,82
+it_roadsigns_1086.jpg,Road_narrows_on_left,0.54,500,229,718,422

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1013.jpg,Pass_either_side,0.69,989,446,1134,594
+it_roadsigns_1013.jpg,No_parking,0.67,255,121,399,265
+it_roadsigns_1013.jpg,Restricted_vehicular_access,0.55,496,228,720,449
+it_roadsigns_1013.jpg,No_vehicles_carrying_dangerous_goods,0.4,7,10,81,82

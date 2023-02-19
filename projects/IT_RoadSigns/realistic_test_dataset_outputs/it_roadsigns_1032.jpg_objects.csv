@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1032.jpg,Minimum_distance,0.97,10,9,229,227
+it_roadsigns_1032.jpg,Low_flying_aircraft,0.93,255,120,400,246
+it_roadsigns_1032.jpg,Turn_right,0.66,990,450,1135,596
+it_roadsigns_1032.jpg,Stop_and_give_way,0.54,740,339,960,556

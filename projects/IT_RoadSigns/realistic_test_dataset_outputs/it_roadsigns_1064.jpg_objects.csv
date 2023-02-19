@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1064.jpg,EU_country_border,0.96,254,118,472,336
+it_roadsigns_1064.jpg,Keep_right,0.95,501,228,645,375
+it_roadsigns_1064.jpg,Traffic_lights,0.54,990,453,1136,579
+it_roadsigns_1064.jpg,Customs,0.53,745,338,889,485

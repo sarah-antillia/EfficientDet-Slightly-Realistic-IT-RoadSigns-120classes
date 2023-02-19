@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1063.jpg,Loose_chippings,0.95,499,225,717,422
+it_roadsigns_1063.jpg,Level_crossing_without_barrier_or_gate_ahead,0.88,747,339,891,468
+it_roadsigns_1063.jpg,No_stopping,0.74,991,446,1209,665
+it_roadsigns_1063.jpg,End_of_bridleway,0.64,7,8,84,83
+it_roadsigns_1063.jpg,End_of_shared_path,0.45,254,119,329,191

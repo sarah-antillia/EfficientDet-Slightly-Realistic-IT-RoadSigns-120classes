@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1061.jpg,No_handcarts,0.97,499,227,720,448
+it_roadsigns_1061.jpg,Customs,0.95,10,7,225,225
+it_roadsigns_1061.jpg,Uneven_road,0.72,254,117,474,310

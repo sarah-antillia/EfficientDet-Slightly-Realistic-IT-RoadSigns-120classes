@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1043.jpg,No_handcarts,0.96,8,8,228,228
+it_roadsigns_1043.jpg,Give_priority_to_vehicles_from_opposite_direction,0.96,258,118,400,265

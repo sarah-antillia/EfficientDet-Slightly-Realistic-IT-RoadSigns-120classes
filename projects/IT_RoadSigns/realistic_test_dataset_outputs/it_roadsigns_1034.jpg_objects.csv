@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1034.jpg,Loose_chippings,0.97,992,448,1131,577
+it_roadsigns_1034.jpg,No_buses,0.9,499,228,717,446
+it_roadsigns_1034.jpg,Double_bend_first_to_left,0.89,254,119,401,246
+it_roadsigns_1034.jpg,No_use_of_horns,0.73,9,7,229,228

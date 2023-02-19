@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1024.jpg,Keep_right,0.97,745,340,964,556
+it_roadsigns_1024.jpg,Dip,0.96,502,224,716,423
+it_roadsigns_1024.jpg,No_animal_drawn_vehicles,0.92,11,9,153,154
+it_roadsigns_1024.jpg,Traffic_lights,0.69,991,448,1135,578
+it_roadsigns_1024.jpg,No_motorcycles,0.42,255,118,325,192

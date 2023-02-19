@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1001.jpg,Keep_right,0.98,497,231,718,448
+it_roadsigns_1001.jpg,Drive_straight_or_turn_right,0.93,743,338,963,557
+it_roadsigns_1001.jpg,Wild_animals,0.8,254,119,399,245

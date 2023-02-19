@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1081.jpg,Loose_chippings,0.96,990,451,1135,580
+it_roadsigns_1081.jpg,No_overtaking,0.91,744,339,889,484
+it_roadsigns_1081.jpg,Drive_straight_or_turn_left,0.81,10,7,224,226
+it_roadsigns_1081.jpg,No_motor_vehicles_with_four_or_more_wheels,0.5,499,229,571,299

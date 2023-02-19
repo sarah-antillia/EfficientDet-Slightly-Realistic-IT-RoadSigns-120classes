@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1069.jpg,Pedestrian_crossing,0.94,254,118,470,332
+it_roadsigns_1069.jpg,Double_bend_first_to_right,0.9,503,228,648,357
+it_roadsigns_1069.jpg,Road_narrows_on_right,0.58,742,340,966,533

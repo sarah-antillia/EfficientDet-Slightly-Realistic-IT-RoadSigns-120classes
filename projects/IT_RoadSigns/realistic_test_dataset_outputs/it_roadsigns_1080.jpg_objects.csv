@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1080.jpg,Uneven_road,0.78,9,9,155,137
+it_roadsigns_1080.jpg,Parking_space_reserved,0.67,499,232,597,377
+it_roadsigns_1080.jpg,End_of_minimum_speed,0.53,987,448,1064,523

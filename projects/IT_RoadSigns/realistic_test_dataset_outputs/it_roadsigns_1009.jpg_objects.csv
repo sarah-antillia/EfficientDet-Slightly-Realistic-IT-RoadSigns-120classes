@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1009.jpg,No_motorcycles,0.93,988,449,1210,668
+it_roadsigns_1009.jpg,Other_danger,0.91,745,340,889,469
+it_roadsigns_1009.jpg,Level_crossing_countdown_marker_100,0.89,8,10,154,156
+it_roadsigns_1009.jpg,Other_danger,0.88,499,228,645,355
+it_roadsigns_1009.jpg,No_motor_vehicles_with_four_or_more_wheels,0.52,253,117,326,191

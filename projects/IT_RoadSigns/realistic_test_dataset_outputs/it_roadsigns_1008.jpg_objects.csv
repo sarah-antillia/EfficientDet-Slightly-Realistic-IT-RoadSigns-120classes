@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1008.jpg,No_overtaking,0.94,989,447,1207,667
+it_roadsigns_1008.jpg,No_vehicles_with_trailer,0.75,498,226,717,447
+it_roadsigns_1008.jpg,Customs,0.72,9,9,153,153
+it_roadsigns_1008.jpg,Road_narrows_on_right,0.51,256,122,398,248

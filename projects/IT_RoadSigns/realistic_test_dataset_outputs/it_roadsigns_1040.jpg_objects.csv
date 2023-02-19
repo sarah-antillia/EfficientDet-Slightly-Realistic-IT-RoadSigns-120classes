@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1040.jpg,End_of_shared_path,0.93,988,449,1135,595
+it_roadsigns_1040.jpg,End_of_no_overtaking,0.88,745,341,893,484
+it_roadsigns_1040.jpg,Road_narrows_on_right,0.45,256,118,397,247

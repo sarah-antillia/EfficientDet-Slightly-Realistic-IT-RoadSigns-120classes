@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1096.jpg,Merging_traffic_from_left,0.97,498,225,722,423
+it_roadsigns_1096.jpg,Other_danger,0.89,988,448,1132,578
+it_roadsigns_1096.jpg,Parking_place,0.48,7,9,229,228

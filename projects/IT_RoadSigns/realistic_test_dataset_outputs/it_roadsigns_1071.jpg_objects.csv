@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1071.jpg,Keep_right,0.98,11,7,155,155
+it_roadsigns_1071.jpg,Level_crossing_countdown_marker_100,0.69,737,337,820,413
+it_roadsigns_1071.jpg,Customs,0.47,255,120,401,266

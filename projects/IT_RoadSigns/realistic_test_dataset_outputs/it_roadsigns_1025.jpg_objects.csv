@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1025.jpg,Give_priority_to_vehicles_from_opposite_direction,0.96,10,11,154,155
+it_roadsigns_1025.jpg,Cattle,0.94,501,231,714,421
+it_roadsigns_1025.jpg,Customs,0.49,253,117,328,193
+it_roadsigns_1025.jpg,Parking_place,0.45,743,337,961,557

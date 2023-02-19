@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1030.jpg,Bend_to_left,0.91,499,227,721,422
+it_roadsigns_1030.jpg,No_vehicles_over_length_shown,0.49,744,338,889,486

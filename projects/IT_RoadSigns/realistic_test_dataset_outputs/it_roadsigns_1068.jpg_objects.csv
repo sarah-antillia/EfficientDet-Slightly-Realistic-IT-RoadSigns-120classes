@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1068.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.94,748,339,962,558
+it_roadsigns_1068.jpg,Crossroads,0.9,989,449,1133,574
+it_roadsigns_1068.jpg,No_vehicles_carrying_explosives_or_flammable_goods,0.58,499,228,715,445
+it_roadsigns_1068.jpg,Traffic_has_priority_over_oncoming_vehicles,0.55,10,10,156,156
+it_roadsigns_1068.jpg,Road_narrows_on_left,0.53,254,118,472,310

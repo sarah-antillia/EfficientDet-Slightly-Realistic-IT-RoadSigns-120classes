@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1089.jpg,Bend_to_right,0.98,251,117,471,309
+it_roadsigns_1089.jpg,Level_crossing_countdown_marker_100,0.9,507,228,650,378
+it_roadsigns_1089.jpg,Priority_road,0.9,745,340,962,558

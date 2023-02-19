@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1038.jpg,Junction_with_a_minor_side_road_from_right,0.95,988,448,1136,581
+it_roadsigns_1038.jpg,Right_turn_only_ahead,0.82,744,339,887,483
+it_roadsigns_1038.jpg,End_of_no_overtaking,0.54,252,117,326,190
+it_roadsigns_1038.jpg,EU_country_border,0.51,496,231,566,300
+it_roadsigns_1038.jpg,No_overtaking,0.46,129,670,1228,1279

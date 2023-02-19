@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1072.jpg,Bend_to_right,0.9,502,229,647,358
+it_roadsigns_1072.jpg,End_of_no_overtaking,0.89,251,120,471,335
+it_roadsigns_1072.jpg,No_vehicles_carrying_dangerous_goods,0.81,742,336,961,556
+it_roadsigns_1072.jpg,Maximum_weight_in_tonnes,0.6,8,10,82,84
+it_roadsigns_1072.jpg,End_of_shared_path,0.42,989,448,1063,523

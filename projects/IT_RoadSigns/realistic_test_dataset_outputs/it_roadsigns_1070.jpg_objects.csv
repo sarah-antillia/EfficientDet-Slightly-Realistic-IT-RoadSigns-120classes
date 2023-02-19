@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1070.jpg,Bridleway,0.89,989,447,1133,595
+it_roadsigns_1070.jpg,Falling_rocks_from_right,0.88,501,224,719,421

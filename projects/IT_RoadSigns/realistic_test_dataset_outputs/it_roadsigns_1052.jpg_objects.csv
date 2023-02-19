@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1052.jpg,EU_country_border,0.96,10,10,226,226
+it_roadsigns_1052.jpg,No_motorcycles,0.93,987,449,1205,665
+it_roadsigns_1052.jpg,Level_crossing_without_barrier_or_gate_ahead,0.91,256,118,466,313
+it_roadsigns_1052.jpg,Junction_with_a_minor_side_road_from_right,0.4,745,340,819,403

@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1051.jpg,Pedestrian_lane,0.59,987,448,1210,672
+it_roadsigns_1051.jpg,Restricted_vehicular_access,0.59,10,8,228,227
+it_roadsigns_1051.jpg,Drive_straight_or_turn_right,0.41,746,339,817,412

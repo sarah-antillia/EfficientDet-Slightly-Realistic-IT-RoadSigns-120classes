@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1033.jpg,Bicycle_crossing_ahead,0.92,501,229,648,357
+it_roadsigns_1033.jpg,No_vehicles_carrying_dangerous_goods,0.84,742,335,966,559
+it_roadsigns_1033.jpg,No_vehicles_carrying_dangerous_goods,0.58,254,118,399,265
+it_roadsigns_1033.jpg,Traffic_lights,0.55,989,446,1208,641

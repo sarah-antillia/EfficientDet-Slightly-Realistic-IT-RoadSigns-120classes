@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1053.jpg,End_of_priority_road,0.96,746,338,889,487
+it_roadsigns_1053.jpg,Merging_traffic_from_left,0.94,254,122,402,249
+it_roadsigns_1053.jpg,Customs,0.94,8,7,153,153
+it_roadsigns_1053.jpg,No_overtaking_by_heavy_goods_vehicles,0.93,500,229,643,375
+it_roadsigns_1053.jpg,Wild_animals,0.76,989,449,1134,578

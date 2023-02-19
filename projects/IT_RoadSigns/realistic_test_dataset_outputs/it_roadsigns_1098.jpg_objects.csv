@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1098.jpg,End_of_cycle_lane,0.95,742,338,962,556
+it_roadsigns_1098.jpg,End_of_bridleway,0.95,991,451,1208,668
+it_roadsigns_1098.jpg,Two_way_traffic,0.8,10,8,153,133

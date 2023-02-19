@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1084.jpg,Give_way,0.94,255,117,399,245
+it_roadsigns_1084.jpg,Right_or_left_turn_only_ahead,0.64,12,9,229,227
+it_roadsigns_1084.jpg,Give_way,0.63,744,337,817,403

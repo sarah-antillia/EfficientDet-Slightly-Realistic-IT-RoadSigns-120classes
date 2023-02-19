@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1057.jpg,End_of_priority_road,0.74,742,338,817,412
+it_roadsigns_1057.jpg,Road_narrows_on_right,0.56,989,448,1133,574
+it_roadsigns_1057.jpg,End_of_segregated_pedestrian_and_cycle_path,0.5,499,229,572,300

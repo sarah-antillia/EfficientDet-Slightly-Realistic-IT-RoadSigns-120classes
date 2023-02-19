@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1085.jpg,End_of_maximum_speed,0.82,741,340,964,560
+it_roadsigns_1085.jpg,Single_level_crossing,0.67,501,227,720,344
+it_roadsigns_1085.jpg,Customs,0.56,990,446,1135,595

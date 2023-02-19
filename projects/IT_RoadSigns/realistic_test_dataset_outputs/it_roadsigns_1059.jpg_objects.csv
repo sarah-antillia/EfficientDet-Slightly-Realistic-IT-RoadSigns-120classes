@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1059.jpg,Left_turn_only_ahead,0.95,255,120,470,336
+it_roadsigns_1059.jpg,Road_narrows_on_left,0.63,744,337,963,531
+it_roadsigns_1059.jpg,No_vehicles_over_height_shown,0.56,501,230,646,375
+it_roadsigns_1059.jpg,Right_or_left_turn_only_ahead,0.44,990,447,1133,594

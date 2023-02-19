@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1076.jpg,Falling_rocks_from_left,0.96,9,9,227,199
+it_roadsigns_1076.jpg,Loose_chippings,0.96,743,339,890,470
+it_roadsigns_1076.jpg,Pedestrian_crossing,0.86,257,121,398,259
+it_roadsigns_1076.jpg,Segregated_pedestrian_and_cycle_path,0.71,500,229,643,375
+it_roadsigns_1076.jpg,EU_country_border,0.68,989,449,1063,522

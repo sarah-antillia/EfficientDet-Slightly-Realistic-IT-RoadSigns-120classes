@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1018.jpg,Other_danger,0.87,501,228,648,357
+it_roadsigns_1018.jpg,Uneven_road,0.74,254,117,474,313
+it_roadsigns_1018.jpg,End_of_segregated_pedestrian_and_cycle_path,0.44,0,993,0,1279

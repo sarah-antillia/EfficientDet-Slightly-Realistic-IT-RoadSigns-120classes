@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1079.jpg,Low_flying_aircraft,0.94,252,117,400,246
+it_roadsigns_1079.jpg,Maximum_speed_50km,0.94,744,339,891,487
+it_roadsigns_1079.jpg,Parking_ahead_in_the_direction_of_the_arrow,0.84,8,11,131,233
+it_roadsigns_1079.jpg,Crossroads,0.82,989,452,1134,575

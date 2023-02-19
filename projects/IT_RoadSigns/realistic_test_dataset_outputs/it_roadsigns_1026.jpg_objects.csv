@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1026.jpg,End_of_bridleway,0.97,504,230,718,449
+it_roadsigns_1026.jpg,Double_bend_first_to_right,0.91,12,9,223,200
+it_roadsigns_1026.jpg,Axle_weight_limit_in_tonnes,0.84,745,338,891,487
+it_roadsigns_1026.jpg,Two_way_traffic,0.6,253,120,476,315
+it_roadsigns_1026.jpg,Keep_right,0.44,990,449,1061,523

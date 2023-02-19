@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1023.jpg,Level_crossing_countdown_marker_150,0.86,250,119,399,266
+it_roadsigns_1023.jpg,Segregated_pedestrian_and_cycle_path,0.8,9,9,229,229

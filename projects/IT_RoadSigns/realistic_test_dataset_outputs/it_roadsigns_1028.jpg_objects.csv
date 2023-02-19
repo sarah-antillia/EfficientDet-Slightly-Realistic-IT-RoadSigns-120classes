@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1028.jpg,End_of_priority_road,0.95,254,119,395,263
+it_roadsigns_1028.jpg,Uneven_road,0.8,747,340,889,466
+it_roadsigns_1028.jpg,Loose_chippings,0.77,500,228,574,292

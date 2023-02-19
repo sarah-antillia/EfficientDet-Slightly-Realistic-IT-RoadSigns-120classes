@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1007.jpg,End_of_bridleway,0.95,255,121,473,340
+it_roadsigns_1007.jpg,Loose_chippings,0.93,500,229,649,359
+it_roadsigns_1007.jpg,No_handcarts,0.92,747,338,890,485
+it_roadsigns_1007.jpg,Stop_and_give_way,0.52,9,9,156,157
