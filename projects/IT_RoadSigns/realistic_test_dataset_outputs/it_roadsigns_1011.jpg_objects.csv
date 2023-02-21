@@ -1,4 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1011.jpg,Loose_chippings,0.95,12,9,227,200
-it_roadsigns_1011.jpg,No_vehicles_carrying_explosives_or_flammable_goods,0.6,255,119,399,265
-it_roadsigns_1011.jpg,Slippery_road,0.42,741,340,887,466
+it_roadsigns_1011.jpg,Loose_chippings,0.96,11,11,229,202
+it_roadsigns_1011.jpg,No_vehicles_carrying_explosives_or_flammable_goods,0.91,254,118,397,263
+it_roadsigns_1011.jpg,Slippery_road,0.91,743,340,888,469
+it_roadsigns_1011.jpg,Slippery_road,0.49,988,450,1060,514

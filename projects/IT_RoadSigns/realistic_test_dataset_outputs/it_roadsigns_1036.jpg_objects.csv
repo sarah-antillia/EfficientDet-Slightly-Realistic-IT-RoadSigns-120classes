@@ -1,4 +1,4 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1036.jpg,Low_flying_aircraft,0.96,500,228,716,420
-it_roadsigns_1036.jpg,Drive_straight_or_turn_left,0.84,745,338,962,554
-it_roadsigns_1036.jpg,No_parking_at_all_times,0.66,255,121,399,332
+it_roadsigns_1036.jpg,No_parking_at_all_times,0.79,251,119,399,333
+it_roadsigns_1036.jpg,Drive_straight_or_turn_left,0.78,744,338,960,553
+it_roadsigns_1036.jpg,Low_flying_aircraft,0.71,502,227,716,419

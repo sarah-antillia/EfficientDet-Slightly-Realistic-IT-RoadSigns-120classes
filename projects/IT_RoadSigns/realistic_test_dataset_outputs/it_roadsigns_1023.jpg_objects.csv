@@ -1,3 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1023.jpg,Level_crossing_countdown_marker_150,0.86,250,119,399,266
-it_roadsigns_1023.jpg,Segregated_pedestrian_and_cycle_path,0.8,9,9,229,229
+it_roadsigns_1023.jpg,Level_crossing_countdown_marker_150,0.85,248,119,402,266
+it_roadsigns_1023.jpg,Segregated_pedestrian_and_cycle_path,0.81,12,11,224,227
+it_roadsigns_1023.jpg,Stop_and_give_way,0.71,498,228,572,301
+it_roadsigns_1023.jpg,Traffic_lights,0.42,989,449,1062,514

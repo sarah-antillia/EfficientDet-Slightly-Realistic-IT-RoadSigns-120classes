@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1029.jpg,No_entry_for_vehicular_traffic,0.99,499,229,717,446
-it_roadsigns_1029.jpg,Loose_chippings,0.96,990,448,1134,579
-it_roadsigns_1029.jpg,End_of_shared_path,0.93,11,8,152,154
-it_roadsigns_1029.jpg,Crossroads_with_right_of_way_from_the_right,0.91,742,338,967,534
+it_roadsigns_1029.jpg,Crossroads_with_right_of_way_from_the_right,0.96,746,339,963,533
+it_roadsigns_1029.jpg,End_of_shared_path,0.95,12,8,152,153
+it_roadsigns_1029.jpg,Loose_chippings,0.92,989,448,1134,577
+it_roadsigns_1029.jpg,Roundabout_ahead,0.87,257,119,479,316
+it_roadsigns_1029.jpg,No_entry_for_vehicular_traffic,0.78,500,230,715,447

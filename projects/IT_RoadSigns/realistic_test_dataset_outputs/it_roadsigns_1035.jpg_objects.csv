@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1035.jpg,Falling_rocks_from_left,0.97,987,447,1206,640
-it_roadsigns_1035.jpg,Bend_to_right,0.9,743,340,890,467
-it_roadsigns_1035.jpg,Uneven_road,0.75,254,120,399,246
-it_roadsigns_1035.jpg,Keep_left,0.64,500,228,572,301
-it_roadsigns_1035.jpg,Traffic_lights,0.59,10,10,154,137
+it_roadsigns_1035.jpg,Bend_to_right,0.95,744,340,888,467
+it_roadsigns_1035.jpg,Falling_rocks_from_left,0.91,989,449,1209,640
+it_roadsigns_1035.jpg,Uneven_road,0.88,253,118,398,245
+it_roadsigns_1035.jpg,Traffic_lights,0.82,11,11,156,137
+it_roadsigns_1035.jpg,Pedestrian_lane,0.57,499,229,573,301

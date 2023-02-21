@@ -1,5 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1022.jpg,Crossroads,0.91,251,121,401,248
-it_roadsigns_1022.jpg,End_of_cycle_lane,0.6,10,9,83,82
-it_roadsigns_1022.jpg,Stop_and_give_way,0.57,989,450,1133,597
-it_roadsigns_1022.jpg,No_vehicles_with_trailer,0.56,748,338,887,483
+it_roadsigns_1022.jpg,No_vehicles_with_trailer,0.84,749,339,888,484
+it_roadsigns_1022.jpg,Stop_and_give_way,0.84,989,450,1134,596
+it_roadsigns_1022.jpg,Crossroads,0.56,249,119,401,247
+it_roadsigns_1022.jpg,End_of_cycle_lane,0.51,12,13,82,81

@@ -1,4 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1044.jpg,Falling_rocks_from_left,0.87,500,229,645,359
-it_roadsigns_1044.jpg,Quayside_or_river_bank,0.51,249,116,471,307
-it_roadsigns_1044.jpg,Cattle,0.44,747,337,968,531
+it_roadsigns_1044.jpg,Quayside_or_river_bank,0.92,258,119,473,308
+it_roadsigns_1044.jpg,Risk_of_fire,0.88,748,341,967,533
+it_roadsigns_1044.jpg,Segregated_pedestrian_and_cycle_path,0.75,9,10,81,80
+it_roadsigns_1044.jpg,Falling_rocks_from_left,0.73,500,229,645,357

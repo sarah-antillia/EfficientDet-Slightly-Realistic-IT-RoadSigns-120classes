@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1093.jpg,Merging_traffic_from_left,0.93,9,9,154,138
-it_roadsigns_1093.jpg,No_use_of_horns,0.78,742,339,964,558
-it_roadsigns_1093.jpg,Horizontal_traffic_lights,0.75,989,448,1138,580
-it_roadsigns_1093.jpg,Trams_crossing_ahead,0.71,500,228,644,356
+it_roadsigns_1093.jpg,Merging_traffic_from_left,0.9,10,10,157,136
+it_roadsigns_1093.jpg,No_use_of_horns,0.89,746,340,965,558
+it_roadsigns_1093.jpg,Horizontal_traffic_lights,0.85,990,448,1136,576
+it_roadsigns_1093.jpg,Trams_crossing_ahead,0.83,501,228,644,357
+it_roadsigns_1093.jpg,No_overtaking,0.44,256,120,328,191

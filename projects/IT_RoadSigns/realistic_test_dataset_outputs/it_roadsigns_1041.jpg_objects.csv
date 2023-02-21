@@ -1,3 +1,4 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1041.jpg,End_of_priority_road,0.88,252,123,470,338
-it_roadsigns_1041.jpg,No_use_of_horns,0.74,9,7,227,225
+it_roadsigns_1041.jpg,End_of_priority_road,0.91,256,122,469,339
+it_roadsigns_1041.jpg,No_use_of_horns,0.88,9,10,224,223
+it_roadsigns_1041.jpg,Road_narrows,0.44,744,337,815,401

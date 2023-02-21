@@ -1,4 +1,4 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1021.jpg,Level_crossing_with_barrier_or_gate_ahead,0.94,745,337,962,530
-it_roadsigns_1021.jpg,Parking_space_reserved,0.59,11,12,104,155
-it_roadsigns_1021.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.42,498,229,575,301
+it_roadsigns_1021.jpg,Level_crossing_with_barrier_or_gate_ahead,0.95,746,339,960,528
+it_roadsigns_1021.jpg,Parking_space_reserved,0.83,9,12,105,154
+it_roadsigns_1021.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.46,498,229,575,301

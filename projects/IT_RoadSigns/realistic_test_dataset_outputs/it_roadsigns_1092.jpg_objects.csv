@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1092.jpg,Merging_traffic_from_left,0.98,990,446,1205,641
-it_roadsigns_1092.jpg,Drive_straight_or_turn_right,0.93,254,120,469,335
-it_roadsigns_1092.jpg,Right_turn_only_ahead,0.6,501,228,640,375
-it_roadsigns_1092.jpg,Other_danger,0.54,7,9,83,75
-it_roadsigns_1092.jpg,Road_narrows,0.43,745,339,818,401
+it_roadsigns_1092.jpg,Merging_traffic_from_left,0.96,992,448,1202,642
+it_roadsigns_1092.jpg,Drive_straight_or_turn_right,0.94,256,119,470,336
+it_roadsigns_1092.jpg,Right_turn_only_ahead,0.92,500,228,641,375
+it_roadsigns_1092.jpg,Other_danger,0.43,10,9,82,73
+it_roadsigns_1092.jpg,Road_narrows,0.41,744,338,817,401

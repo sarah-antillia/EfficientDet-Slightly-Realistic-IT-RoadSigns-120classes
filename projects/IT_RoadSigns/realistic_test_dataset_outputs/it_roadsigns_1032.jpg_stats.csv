@@ -1,5 +1,6 @@
 id, class, count
-1,Minimum_distance,1
-2,Low_flying_aircraft,1
-3,Turn_right,1
-4,Stop_and_give_way,1
+1,Low_flying_aircraft,1
+2,Minimum_distance,1
+3,Stop_and_give_way,1
+4,Turn_right,1
+5,Pass_either_side,1

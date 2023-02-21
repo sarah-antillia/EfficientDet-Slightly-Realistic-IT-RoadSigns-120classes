@@ -1,6 +1,10 @@
 <h2>
-EfficientDet-Slightly-Realistic-IT-RoadSigns-120classes (Updated: 2023/02/20)
+EfficientDet-Slightly-Realistic-IT-RoadSigns-120classes (Updated: 2023/02/21)
 </h2>
+<li>
+2023/02/21: Modified to use mixed_size_train.tfrecord and mixed_size_valid.tfrecord to
+improve detection accuracy.
+</li>
 
 <h2>
 1. Installing tensorflow on Windows11
@@ -82,8 +86,11 @@ The train and valid folders contain the following tfrecord files:<br>
     └─IT_RoadSigns
         ├─train
         │  └─train.tfrecord
+        │  └─mixed_size_train.tfrecord
         └─valid
            └─valid.tfrecord
+           └─mixed_size_valid.tfrecord
+
 </pre>
 
 
@@ -379,21 +386,21 @@ python ../../ModelTrainer.py ^
 <br>
 <br>
 <b><a href="./projects/IT_RoadSigns/eval/coco_metrics.csv">COCO metrics at epoch 100</a></b><br>
-<img src="./asset/coco_metrics_console_at_epoch100_tf2.8.0_0220.png" width="1024" height="auto">
+<img src="./asset/coco_metrics_console_at_epoch100_tf2.8.0_0221.png" width="1024" height="auto">
 <br>
 
 <br>
 <b><a href="./projects/IT_RoadSigns/eval/coco_metrics.csv">COCO meticss f and map</a></b><br>
-<img src="./asset/coco_metrics_at_epoch100_tf2.8.0_0220.png" width="1024" height="auto">
+<img src="./asset/coco_metrics_at_epoch100_tf2.8.0_0221.png" width="1024" height="auto">
 <br>
 <br>
 <b><a href="./projects/IT_RoadSigns/eval/train_losses.csv">Train losses</a></b><br>
-<img src="./asset/train_losses_at_epoch100_tf2.8.0_0220.png" width="1024" height="auto">
+<img src="./asset/train_losses_at_epoch100_tf2.8.0_0221.png" width="1024" height="auto">
 <br>
 <br>
 
 <b><a href="./projects/IT_RoadSigns/eval/coco_ap_per_class.csv">COCO ap per class</a></b><br>
-<img src="./asset/coco_ap_per_class_at_epoch100_tf2.8.0_0220.png" width="1024" height="auto">
+<img src="./asset/coco_ap_per_class_at_epoch100_tf2.8.0_0221.png" width="1024" height="auto">
 <br>
 
 <h3>
@@ -405,7 +412,7 @@ python ../../ModelTrainer.py ^
 </pre>
 , which is the following:
 <pre>
-rem 2_create_saved_model.bat  modified 2022/06/18
+rem 2_create_saved_model.bat  
 python ../../SavedModelCreator.py ^
   --runmode=saved_model ^
   --model_name=efficientdet-d0 ^
@@ -539,4 +546,4 @@ The 3_inference.bat computes also the COCO metrics(f, map, mar) to the <b>realis
 <a href="./projects/IT_RoadSigns/realistic_test_dataset_outputs/prediction_f_map_mar.csv">prediction_f_map_mar.csv</a>
 
 <br>
-<img src="./asset/coco_metrics_console_test_dataset_at_epoch100_tf2.8.0_0220.png" width="740" height="auto"><br>
+<img src="./asset/coco_metrics_console_test_dataset_at_epoch100_tf2.8.0_0221.png" width="740" height="auto"><br>

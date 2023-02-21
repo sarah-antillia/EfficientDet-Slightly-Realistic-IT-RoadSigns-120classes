@@ -1,4 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1012.jpg,Loose_chippings,0.96,989,450,1209,641
-it_roadsigns_1012.jpg,End_of_bridleway,0.68,8,9,82,84
-it_roadsigns_1012.jpg,Pass_either_side,0.65,499,229,717,447
+it_roadsigns_1012.jpg,Loose_chippings,0.97,990,448,1207,643
+it_roadsigns_1012.jpg,Pass_either_side,0.95,500,229,716,447
+it_roadsigns_1012.jpg,End_of_bridleway,0.71,9,11,84,82
+it_roadsigns_1012.jpg,Uneven_road,0.53,255,121,324,181
+it_roadsigns_1012.jpg,Pass_either_side,0.5,744,338,817,409

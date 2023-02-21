@@ -1,5 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1088.jpg,End_of_pedestrian_lane,0.97,742,337,962,557
-it_roadsigns_1088.jpg,No_overtaking,0.95,498,228,722,450
-it_roadsigns_1088.jpg,Bumps_in_the_road,0.79,9,10,154,135
-it_roadsigns_1088.jpg,Traffic_lights,0.64,254,117,472,310
+it_roadsigns_1088.jpg,Bumps_in_the_road,0.96,9,8,156,134
+it_roadsigns_1088.jpg,No_overtaking,0.94,500,231,720,452
+it_roadsigns_1088.jpg,End_of_pedestrian_lane,0.92,742,337,961,555
+it_roadsigns_1088.jpg,Traffic_lights,0.81,254,119,469,308

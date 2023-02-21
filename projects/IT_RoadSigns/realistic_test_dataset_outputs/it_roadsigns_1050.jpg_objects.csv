@@ -1,3 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1050.jpg,Low_flying_aircraft,0.95,255,119,401,249
-it_roadsigns_1050.jpg,Uneven_road,0.82,9,8,154,137
+it_roadsigns_1050.jpg,Uneven_road,0.89,9,9,152,136
+it_roadsigns_1050.jpg,Low_flying_aircraft,0.88,255,119,401,247
+it_roadsigns_1050.jpg,No_buses,0.59,500,229,573,301
+it_roadsigns_1050.jpg,Multiple_level_crossing,0.57,987,449,1063,500
+it_roadsigns_1050.jpg,Bend_to_left,0.51,745,339,816,402

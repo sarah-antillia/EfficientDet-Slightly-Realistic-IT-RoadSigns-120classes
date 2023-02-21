@@ -1,4 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1097.jpg,Level_crossing_countdown_marker_50,0.94,258,118,401,265
-it_roadsigns_1097.jpg,Steep_hill_downwards,0.73,11,8,228,201
-it_roadsigns_1097.jpg,Single_level_crossing,0.63,993,447,1205,557
+it_roadsigns_1097.jpg,Level_crossing_countdown_marker_50,0.9,259,119,403,265
+it_roadsigns_1097.jpg,Steep_hill_downwards,0.9,12,11,227,202
+it_roadsigns_1097.jpg,Single_level_crossing,0.89,993,450,1199,560
+it_roadsigns_1097.jpg,Road_narrows_on_right,0.4,497,227,573,292

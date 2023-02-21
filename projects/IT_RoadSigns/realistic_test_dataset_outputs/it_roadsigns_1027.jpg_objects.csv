@@ -1,4 +1,4 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1027.jpg,Merging_traffic_from_left,0.98,8,9,229,205
-it_roadsigns_1027.jpg,Keep_right,0.97,746,339,891,486
-it_roadsigns_1027.jpg,Uneven_road,0.84,501,228,645,356
+it_roadsigns_1027.jpg,Keep_right,0.98,745,340,890,485
+it_roadsigns_1027.jpg,Merging_traffic_from_left,0.93,13,10,225,202
+it_roadsigns_1027.jpg,Uneven_road,0.85,499,228,643,354

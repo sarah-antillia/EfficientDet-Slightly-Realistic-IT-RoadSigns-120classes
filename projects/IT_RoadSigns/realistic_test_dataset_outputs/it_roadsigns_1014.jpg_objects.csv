@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1014.jpg,Minimum_distance,0.97,10,8,154,155
-it_roadsigns_1014.jpg,Uneven_road,0.79,990,446,1206,638
-it_roadsigns_1014.jpg,Segregated_pedestrian_and_cycle_path,0.78,502,230,645,376
-it_roadsigns_1014.jpg,Wild_animals,0.72,743,339,890,470
-it_roadsigns_1014.jpg,Two_way_traffic,0.64,253,119,471,310
+it_roadsigns_1014.jpg,Wild_animals,0.97,745,339,890,469
+it_roadsigns_1014.jpg,Uneven_road,0.92,988,446,1205,639
+it_roadsigns_1014.jpg,Minimum_distance,0.89,13,8,154,154
+it_roadsigns_1014.jpg,Two_way_traffic,0.85,255,117,470,308
+it_roadsigns_1014.jpg,Segregated_pedestrian_and_cycle_path,0.8,498,233,647,376

@@ -1,3 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1031.jpg,No_large_goods_vehicles_over_weight_shown,0.96,746,337,963,557
-it_roadsigns_1031.jpg,Traffic_lights,0.65,502,228,644,356
+it_roadsigns_1031.jpg,No_large_goods_vehicles_over_weight_shown,0.85,744,339,963,558
+it_roadsigns_1031.jpg,Traffic_lights,0.84,503,228,645,354
+it_roadsigns_1031.jpg,Road_narrows_on_right,0.4,253,119,325,182
+it_roadsigns_1031.jpg,No_large_goods_vehicles,0.4,9,10,83,83

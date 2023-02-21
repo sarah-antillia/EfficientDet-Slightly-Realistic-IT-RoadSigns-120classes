@@ -1,4 +1,5 @@
 id, class, count
 1,Loose_chippings,1
-2,End_of_bridleway,1
-3,Pass_either_side,1
+2,Pass_either_side,2
+3,End_of_bridleway,1
+4,Uneven_road,1

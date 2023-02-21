@@ -1,5 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1048.jpg,Minimum_distance,0.97,9,8,228,228
-it_roadsigns_1048.jpg,Level_crossing_with_barrier_or_gate_ahead,0.96,258,120,471,311
-it_roadsigns_1048.jpg,Dip,0.95,749,337,960,530
-it_roadsigns_1048.jpg,Pedestrian_crossing_ahead,0.51,502,228,645,358
+it_roadsigns_1048.jpg,Level_crossing_with_barrier_or_gate_ahead,0.96,258,119,472,310
+it_roadsigns_1048.jpg,Dip,0.94,746,337,960,531
+it_roadsigns_1048.jpg,Pedestrian_crossing_ahead,0.86,500,228,644,356
+it_roadsigns_1048.jpg,Minimum_distance,0.85,11,10,226,227

@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1047.jpg,Crossroads,0.86,990,446,1207,642
-it_roadsigns_1047.jpg,Uneven_road,0.82,744,341,963,532
-it_roadsigns_1047.jpg,No_tractors,0.68,496,227,717,447
-it_roadsigns_1047.jpg,Loose_chippings,0.61,254,119,326,182
+it_roadsigns_1047.jpg,Uneven_road,0.91,745,339,963,532
+it_roadsigns_1047.jpg,No_tractors,0.84,498,229,716,446
+it_roadsigns_1047.jpg,Crossroads,0.81,991,447,1206,642
+it_roadsigns_1047.jpg,Uneven_road,0.43,8,10,81,74
+it_roadsigns_1047.jpg,Bicycle_crossing_ahead,0.42,256,121,326,182

@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1058.jpg,No_overtaking_by_heavy_goods_vehicles,0.95,500,230,646,377
-it_roadsigns_1058.jpg,Single_level_crossing,0.75,255,120,400,195
-it_roadsigns_1058.jpg,End_of_segregated_pedestrian_and_cycle_path,0.52,989,449,1062,523
-it_roadsigns_1058.jpg,No_overtaking,0.5,254,650,1234,1279
+it_roadsigns_1058.jpg,No_overtaking_by_heavy_goods_vehicles,0.91,501,230,645,374
+it_roadsigns_1058.jpg,Single_level_crossing,0.88,254,118,398,194
+it_roadsigns_1058.jpg,Shared_path,0.75,10,10,222,227
+it_roadsigns_1058.jpg,End_of_pedestrian_lane,0.71,989,448,1062,522
+it_roadsigns_1058.jpg,Pedestrian_lane,0.65,745,338,818,412

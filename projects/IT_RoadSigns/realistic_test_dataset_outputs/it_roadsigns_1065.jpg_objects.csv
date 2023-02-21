@@ -1,4 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1065.jpg,Level_crossing_countdown_marker_50,0.92,990,444,1129,595
-it_roadsigns_1065.jpg,End_of_minimum_speed,0.8,252,121,400,266
-it_roadsigns_1065.jpg,No_vehicles_carrying_dangerous_goods,0.74,745,338,890,486
+it_roadsigns_1065.jpg,End_of_minimum_speed,0.95,255,121,400,264
+it_roadsigns_1065.jpg,No_vehicles_carrying_dangerous_goods,0.9,745,339,890,484
+it_roadsigns_1065.jpg,Level_crossing_countdown_marker_50,0.8,992,452,1130,594
+it_roadsigns_1065.jpg,End_of_maximum_speed,0.55,498,227,574,302

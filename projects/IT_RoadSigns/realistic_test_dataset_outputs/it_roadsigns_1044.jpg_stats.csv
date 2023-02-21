@@ -1,4 +1,5 @@
 id, class, count
-1,Falling_rocks_from_left,1
-2,Quayside_or_river_bank,1
-3,Cattle,1
+1,Quayside_or_river_bank,1
+2,Risk_of_fire,1
+3,Segregated_pedestrian_and_cycle_path,1
+4,Falling_rocks_from_left,1

@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1054.jpg,No_motor_vehicles_with_four_or_more_wheels,0.98,989,449,1207,665
-it_roadsigns_1054.jpg,No_handcarts,0.96,8,8,225,225
-it_roadsigns_1054.jpg,End_of_bridleway,0.92,254,121,397,263
-it_roadsigns_1054.jpg,One_way_traffic,0.43,498,231,717,444
+it_roadsigns_1054.jpg,End_of_bridleway,0.94,255,119,398,264
+it_roadsigns_1054.jpg,No_handcarts,0.89,12,11,221,225
+it_roadsigns_1054.jpg,One_way_traffic,0.68,500,229,715,446
+it_roadsigns_1054.jpg,Give_way,0.66,743,338,817,405
+it_roadsigns_1054.jpg,No_motor_vehicles_with_four_or_more_wheels,0.66,989,450,1205,667

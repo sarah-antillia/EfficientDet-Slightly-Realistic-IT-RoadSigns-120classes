@@ -1,4 +1,4 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1000.jpg,Maximum_weight_in_tonnes,0.98,988,445,1134,593
-it_roadsigns_1000.jpg,Other_danger,0.88,255,120,471,312
-it_roadsigns_1000.jpg,Parking_ahead_in_the_direction_of_the_arrow,0.82,498,231,621,453
+it_roadsigns_1000.jpg,Maximum_weight_in_tonnes,0.93,988,448,1133,594
+it_roadsigns_1000.jpg,Other_danger,0.85,258,118,473,311
+it_roadsigns_1000.jpg,Parking_ahead_in_the_direction_of_the_arrow,0.83,500,228,621,448

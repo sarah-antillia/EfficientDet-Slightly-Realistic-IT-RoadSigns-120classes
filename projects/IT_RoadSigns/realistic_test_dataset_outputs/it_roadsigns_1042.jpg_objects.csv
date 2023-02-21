@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1042.jpg,Derestriction,0.87,742,339,961,558
-it_roadsigns_1042.jpg,Horizontal_traffic_lights,0.86,989,447,1136,578
-it_roadsigns_1042.jpg,Single_level_crossing,0.83,256,120,401,194
-it_roadsigns_1042.jpg,End_of_no_overtaking,0.81,498,231,648,377
+it_roadsigns_1042.jpg,Single_level_crossing,0.94,254,119,399,194
+it_roadsigns_1042.jpg,Derestriction,0.88,742,337,962,556
+it_roadsigns_1042.jpg,Horizontal_traffic_lights,0.85,990,448,1133,576
+it_roadsigns_1042.jpg,End_of_no_overtaking,0.84,499,233,647,376
+it_roadsigns_1042.jpg,Parking_prohibited_at_certain_times_and_allowed_in_others,0.44,8,14,72,85

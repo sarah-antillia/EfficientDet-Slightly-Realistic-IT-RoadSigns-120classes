@@ -1,3 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1070.jpg,Bridleway,0.89,989,447,1133,595
-it_roadsigns_1070.jpg,Falling_rocks_from_right,0.88,501,224,719,421
+it_roadsigns_1070.jpg,Bridleway,0.97,992,447,1134,595
+it_roadsigns_1070.jpg,Falling_rocks_from_right,0.92,502,227,715,417
+it_roadsigns_1070.jpg,No_vehicles_carrying_goods_which_could_pollute_water,0.79,10,10,224,224
+it_roadsigns_1070.jpg,Drive_straight_or_turn_right,0.44,745,338,817,412

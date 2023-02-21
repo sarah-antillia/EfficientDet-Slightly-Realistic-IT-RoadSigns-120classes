@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1019.jpg,Dip,0.94,10,9,158,139
-it_roadsigns_1019.jpg,End_of_no_overtaking,0.94,741,341,963,561
-it_roadsigns_1019.jpg,No_parking,0.72,991,447,1209,665
-it_roadsigns_1019.jpg,Wild_animals,0.44,255,119,473,310
+it_roadsigns_1019.jpg,Roundabout_ahead,0.88,256,119,474,310
+it_roadsigns_1019.jpg,Dip,0.84,10,10,158,138
+it_roadsigns_1019.jpg,Snow_chains_compulsory,0.82,499,232,719,446
+it_roadsigns_1019.jpg,End_of_no_overtaking,0.77,742,338,965,559
+it_roadsigns_1019.jpg,No_parking,0.68,990,448,1207,667

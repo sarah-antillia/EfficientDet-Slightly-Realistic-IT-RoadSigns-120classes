@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1005.jpg,No_vehicles_with_trailer,0.74,742,336,963,561
-it_roadsigns_1005.jpg,Level_crossing_countdown_marker_100,0.51,255,122,326,194
-it_roadsigns_1005.jpg,Slippery_road,0.5,11,10,229,202
-it_roadsigns_1005.jpg,End_of_cycle_lane,0.49,499,229,574,302
+it_roadsigns_1005.jpg,No_vehicles_with_trailer,0.88,743,338,962,557
+it_roadsigns_1005.jpg,Slippery_road,0.86,10,10,229,202
+it_roadsigns_1005.jpg,Roundabout_ahead,0.85,991,448,1136,577
+it_roadsigns_1005.jpg,Level_crossing_countdown_marker_100,0.73,257,119,330,193
+it_roadsigns_1005.jpg,End_of_cycle_lane,0.51,501,229,573,301

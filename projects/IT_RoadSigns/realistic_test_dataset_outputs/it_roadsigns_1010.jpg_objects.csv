@@ -1,3 +1,4 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1010.jpg,Give_priority_to_vehicles_from_opposite_direction,0.95,989,448,1137,597
-it_roadsigns_1010.jpg,End_of_minimum_speed,0.43,743,339,818,414
+it_roadsigns_1010.jpg,Give_priority_to_vehicles_from_opposite_direction,0.94,991,449,1134,595
+it_roadsigns_1010.jpg,End_of_cycle_lane,0.7,745,338,817,412
+it_roadsigns_1010.jpg,No_large_goods_vehicles,0.42,499,229,570,300

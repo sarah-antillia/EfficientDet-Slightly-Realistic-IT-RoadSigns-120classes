@@ -1,3 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1049.jpg,Give_priority_to_vehicles_from_opposite_direction,0.96,257,117,399,263
-it_roadsigns_1049.jpg,Derestriction,0.89,989,447,1137,596
+it_roadsigns_1049.jpg,Give_priority_to_vehicles_from_opposite_direction,0.93,258,119,397,262
+it_roadsigns_1049.jpg,Derestriction,0.91,987,449,1138,595
+it_roadsigns_1049.jpg,Axle_weight_limit_in_tonnes,0.72,9,10,82,81
+it_roadsigns_1049.jpg,Single_level_crossing,0.4,498,227,574,269

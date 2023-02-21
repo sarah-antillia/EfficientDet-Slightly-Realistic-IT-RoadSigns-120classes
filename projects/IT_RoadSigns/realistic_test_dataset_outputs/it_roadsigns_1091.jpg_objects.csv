@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1091.jpg,Minimum_speed,0.98,11,7,223,224
-it_roadsigns_1091.jpg,Keep_right,0.97,499,229,718,447
-it_roadsigns_1091.jpg,No_animal_drawn_vehicles,0.93,255,118,400,263
-it_roadsigns_1091.jpg,Priority_road,0.89,993,451,1131,594
-it_roadsigns_1091.jpg,Road_narrows_on_left,0.62,745,338,960,530
+it_roadsigns_1091.jpg,Keep_right,0.96,497,229,716,446
+it_roadsigns_1091.jpg,No_animal_drawn_vehicles,0.93,254,120,399,265
+it_roadsigns_1091.jpg,Minimum_speed,0.92,10,10,224,225
+it_roadsigns_1091.jpg,Priority_road,0.87,988,450,1134,595
+it_roadsigns_1091.jpg,Road_narrows_on_left,0.69,747,336,959,530

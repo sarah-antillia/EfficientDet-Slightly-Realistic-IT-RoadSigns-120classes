@@ -1,6 +1,6 @@
 id, class, count
-1,Minimum_distance,1
+1,Wild_animals,1
 2,Uneven_road,1
-3,Segregated_pedestrian_and_cycle_path,1
-4,Wild_animals,1
-5,Two_way_traffic,1
+3,Minimum_distance,1
+4,Two_way_traffic,1
+5,Segregated_pedestrian_and_cycle_path,1

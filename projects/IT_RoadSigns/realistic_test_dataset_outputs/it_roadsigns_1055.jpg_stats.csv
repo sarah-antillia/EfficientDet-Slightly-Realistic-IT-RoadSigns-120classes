@@ -1,5 +1,5 @@
 id, class, count
 1,EU_country_border,1
-2,Level_crossing_with_barrier_or_gate_ahead,1
-3,No_motorcycles,1
-4,Two_way_traffic,2
+2,No_motorcycles,1
+3,Two_way_traffic,2
+4,Level_crossing_with_barrier_or_gate_ahead,1

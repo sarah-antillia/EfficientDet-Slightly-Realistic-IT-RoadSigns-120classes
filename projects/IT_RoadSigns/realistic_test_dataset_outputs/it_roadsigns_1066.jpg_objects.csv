@@ -1,4 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1066.jpg,Junction_with_a_minor_side_road_from_right,0.96,9,8,155,139
-it_roadsigns_1066.jpg,Drive_straight_or_turn_left,0.83,256,119,400,264
-it_roadsigns_1066.jpg,Trams_crossing_ahead,0.64,744,337,966,533
+it_roadsigns_1066.jpg,Trams_crossing_ahead,0.93,744,340,967,534
+it_roadsigns_1066.jpg,Drive_straight_or_turn_left,0.88,255,120,400,264
+it_roadsigns_1066.jpg,Junction_with_a_minor_side_road_from_right,0.74,10,9,156,136
+it_roadsigns_1066.jpg,Parking_space_reserved,0.43,499,229,549,295

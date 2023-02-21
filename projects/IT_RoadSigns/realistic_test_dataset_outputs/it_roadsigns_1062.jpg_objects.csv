@@ -1,5 +1,4 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-it_roadsigns_1062.jpg,Low_flying_aircraft,0.98,990,449,1205,640
-it_roadsigns_1062.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.94,741,339,964,559
-it_roadsigns_1062.jpg,Level_crossing_countdown_marker_100,0.77,7,8,79,82
-it_roadsigns_1062.jpg,Keep_left,0.48,498,229,570,302
+it_roadsigns_1062.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.82,744,340,964,559
+it_roadsigns_1062.jpg,Low_flying_aircraft,0.71,992,450,1208,638
+it_roadsigns_1062.jpg,Level_crossing_countdown_marker_100,0.55,11,9,85,82
